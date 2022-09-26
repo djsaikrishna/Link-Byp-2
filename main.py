@@ -3,9 +3,9 @@ import bypasser
 import os
 
 # bot
-TOKEN = os.environ.get("TOKEN", "")
+TOKEN = os.environ.get("TOKEN", "5623546126:AAGqkev3gOFijeCt2tkcbVYuhHaLfYBrGvM")
 bot = telebot.TeleBot(TOKEN)
-GDTot_Crypt = os.environ.get("CRYPT","b0lDek5LSCt6ZjVRR2EwZnY4T1EvVndqeDRtbCtTWmMwcGNuKy8wYWpDaz0%3D")
+GDTot_Crypt = os.environ.get("CRYPT","a2RHVENYaWgzTEdvVGg0S3QxaU5jZDdDOVdyNlkvVHBHZ2ZRcktYU012TT0%3D")
 Laravel_Session = os.environ.get("Laravel_Session","")
 XSRF_TOKEN = os.environ.get("XSRF_TOKEN","")
 
